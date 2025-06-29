@@ -1,0 +1,9 @@
+streamlit==1.33.0
+ibm-watsonx-ai==1.1.2
+docling==2.14.0
+langchain==0.2.12
+langchain-ibm==0.1.11
+langchain-core==0.2.28
+langchain-community==0.2.11
+transformers==4.47.1
+pandas
