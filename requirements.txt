@@ -8,3 +8,4 @@ langchain-community==0.2.11
 transformers==4.47.1
 pandas==2.2.2
 python-dotenv==1.0.1
+pandas==2.1.4
