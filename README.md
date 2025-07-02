@@ -1,16 +1,17 @@
 
 # GranNegotiate: Contract Negotiation Copilot
 
-[![Demo](g1.gif)](https://grannegotiate-contract-copilot-xxdyfyxpb6r3p7rjj5dctk.streamlit.app/)  
+[![Demo](images/g1.gif)](https://grannegotiate-contract-copilot-xxdyfyxpb6r3p7rjj5dctk.streamlit.app/)  
 **[👉 Click here to try the app live](https://grannegotiate-contract-copilot-xxdyfyxpb6r3p7rjj5dctk.streamlit.app/)**
 
 ---
 
 ## Demo Screenshots
 
-| ![s1](s1.png) | ![s2](s2.png) |
-| ------------- | ------------- |
-| ![s3](s3.png) | ![s4](s4.png) |
+| ![s1](images/s1.png) | ![s2](images/s2.png) |
+| -------------------- | -------------------- |
+| ![s3](images/s3.png) | ![s4](images/s4.png) |
+
 
 ---
 
@@ -112,3 +113,4 @@ streamlit run app.py
 ## Conclusion
 
 GranNegotiate helps businesses optimize their contract negotiation process by leveraging AI to analyze contracts, offer suggestions, and ensure compliance. With IBM Granite and Granite Guardian, we automate tedious and time-consuming contract review tasks — providing safer, clearer contracts for your organization.
+
