@@ -1,7 +1,10 @@
 
 # GranNegotiate: Contract Negotiation Copilot
 
-[![Demo](images/g1.gif)](https://grannegotiate-contract-copilot-xxdyfyxpb6r3p7rjj5dctk.streamlit.app/)  
+<a href="https://grannegotiate-contract-copilot-xxdyfyxpb6r3p7rjj5dctk.streamlit.app/">
+  <img src="images/g1.gif" alt="Demo" width="600"/>
+</a>  
+ 
 **[👉 Click here to try the app live](https://grannegotiate-contract-copilot-xxdyfyxpb6r3p7rjj5dctk.streamlit.app/)**
 
 ---
